@@ -1,9 +1,8 @@
 # 3D PORTFOLIO
 
-**[Live demo](https://yashukalkar-portfolio.vercel.app)**
+**[Live demo](https://yashukalkar.dev)**
 
-This is the modification of **[Bokoko33's Portfolio](https://bokoko33.me/)** Website Code. Please do not use this exact idea,
-but feel free to use it as a starting point/inspiration.
+This is the modification of **[Bokoko33's Portfolio](https://bokoko33.me/)** Website Code.
 
 ![Home page screenshot](public/social/screenshot.png?raw=true "Home page screenshot")
 
